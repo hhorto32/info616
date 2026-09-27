@@ -1,0 +1,6 @@
+{ "people": ["Clint Black", "Alan Jackson", "Wynonna Judd",  
+"John Michael Montgomery","Brooks and Dunn",
+ "Tim McGraw" , "Faith Hill", "Lonestar" ], 
+"values": [1, 2, 1, 2, 1,2, 1, 1],
+"friends": ["Rachel", "Ross", "Monica", "Chandler", "Phoebe", "Joey"], 
+"lines": [9312, 9157,8441 , 8466, 7501, 8171 ]}
