@@ -49,7 +49,7 @@ fetch('data.json')
       data: {
         labels: json.people,
         datasets: [{
-          label: "Most Lines Spoken in Friends",
+          label: "Lines",
           data: json.values,
           backgroundColor: [
       'rgb(255, 99, 132)',
